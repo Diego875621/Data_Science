@@ -3,7 +3,7 @@
 </p>
 
 # Diego Andrade Silva
-<sub>*Pharmacist and Data Scientist*</sub>
+<sub>*Data Scientist and Pharmacist*</sub>
 
 I am skilled in writing, scientific experiments, and research methodology. My soft skills include good emotional control, empathy, and a high ability to explain complex concepts in simple ways, which were mostly obtained when I tutored and taught, plus I work with the general public, my patients as a pharmacist in a community pharmacy.
 
