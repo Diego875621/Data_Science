@@ -10,7 +10,7 @@ I am skilled in writing, scientific experiments, and research methodology. My so
 I have a bachelor's degree in Pharmacy and am specializing in clinical and prescription pharmacy. My scientific initiation was on analytical chemistry with validation of analytical methods by HPLC on drugs. In addition, I am now learning Data Science and am thinking about integrating my knowledge, applying it to business and academia.
 
 
-**Background in:** Clinical pharmacy, medicinal and analytical chemistry, Python, Machine Learning.
+**Background in:** Data Science, Python, Machine Learning, Medicinal and analytical chemistry, Clinical pharmacy, .
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/diego-andrade-b73110124/)
@@ -20,8 +20,8 @@ I have a bachelor's degree in Pharmacy and am specializing in clinical and presc
 ## Projetos:
 Veja os
 
-* **Como :** https://
-
+* **Covid-19 Analysis :** https://bit.ly/3MDskUW
+* **Toronto Airbnb Analysis:** https://bit.ly/3yQhxCR
 ---
 
 
