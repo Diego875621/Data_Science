@@ -23,7 +23,7 @@ Veja os
 * **Covid-19 Analysis :** https://XXXXXX
 * **Toronto Airbnb Analysis:** https://XXXXXXX
 * **Churn Prediction:** https://bit.ly/3sI6Zl7
-* **Previsão dos custos dos seguros de saúde:https:** https://bit.ly/3DORGxe
+* **Previsão dos custos dos seguros de saúde:https:** https://bit.ly/3Wh648K
 * **Detecção de Fraude em Cartões de Crédito:https:** https://bit.ly/3sNH5wk
 ---
 
