@@ -20,10 +20,11 @@ I have a bachelor's degree in Pharmacy and am specializing in clinical and presc
 ## Projetos:
 Veja os
 
-* **Covid-19 Analysis :** https://bit.ly/3MDskUW
-* **Toronto Airbnb Analysis:** https://bit.ly/3yQhxCR
-* **Previsão dos custos dos seguros de saúde:https:** https://bit.ly/3zyJ6A2
-* **Detecção de Fraude em Cartões de Crédito:https:** https://bit.ly/3STuhPi
+* **Covid-19 Analysis :** https://XXXXXX
+* **Toronto Airbnb Analysis:** https://XXXXXXX
+* **Churn Prediction:** https://bit.ly/3sI6Zl7
+* **Previsão dos custos dos seguros de saúde:https:** https://bit.ly/3DORGxe
+* **Detecção de Fraude em Cartões de Crédito:https:** https://bit.ly/3sNH5wk
 ---
 
 
