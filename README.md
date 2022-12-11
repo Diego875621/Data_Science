@@ -19,7 +19,7 @@ I have a bachelor's degree in Pharmacy and am specializing in clinical and presc
 
 ## [English] Data Science Projects:
 
-* **Fetal Health Classification:** bit.ly/3Yet5tL
+* **Fetal Health Classification:** https://bit.ly/3Yet5tL
 
 
 
