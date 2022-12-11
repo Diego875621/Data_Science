@@ -19,13 +19,15 @@ I have a bachelor's degree in Pharmacy and am specializing in clinical and presc
 
 ## [English] Data Science Projects:
 
+
+
+## [Português-BR] Projetos de Data Science:
+
 * **Covid-19 Analysis :** https://XXXXXX
 * **Toronto Airbnb Analysis:** https://XXXXXXX
 * **Churn Prediction:** https://bit.ly/3sI6Zl7
 * **Previsão dos custos dos seguros de saúde:https:** https://bit.ly/3Wh648K
 * **Detecção de Fraude em Cartões de Crédito:https:** https://bit.ly/3sNH5wk
 ---
-
-## [Português-BR] Projetos de Data Science:
 
 
