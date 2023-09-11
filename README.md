@@ -7,17 +7,21 @@
 
 **Background in:** Data Science, Python, Machine Learning, Medicinal and analytical chemistry, Clinical pharmacy, .
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/diego-andrade-b73110124/)
+**Linkedin:** [LinkedIn](https://www.linkedin.com/in/diego-andrade-b73110124/)
 
 
 
 ## [English] Data Science Projects:
 
-* **Fetal Health Classification:** https://colab.research.google.com/drive/1LyASeg5uNqYruAl8rCyjuZT3H_uNvswT # XGBoost
-* **Fake News Classifier:** https://colab.research.google.com/drive/10M-D-jjqDVyP1j1H5H-oDk1OojYhZHJL #NLP   #Deep Learning
-* **Wine Store Forecasting:** https://colab.research.google.com/drive/1tpEa3UnGOJ0L3ZPI9I2pCooLoJt0sHlF # Times Series # Prophet
+# XGBoost
+* **Fetal Health Classification:** https://colab.research.google.com/drive/1LyASeg5uNqYruAl8rCyjuZT3H_uNvswT
 * 
+# Deep Learning #NLP
+* **Fake News Classifier:** https://colab.research.google.com/drive/10M-D-jjqDVyP1j1H5H-oDk1OojYhZHJL
+* 
+# Times Series # Prophet
+* **Wine Store Forecasting:** https://colab.research.google.com/drive/1tpEa3UnGOJ0L3ZPI9I2pCooLoJt0sHlF 
+
 
 
 
