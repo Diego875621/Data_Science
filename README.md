@@ -5,11 +5,6 @@
 # Diego Andrade Silva
 <sub>*Data Scientist and Pharmacist*</sub>
 
-I am skilled in writing, scientific experiments, and research methodology. My soft skills include good emotional control, empathy, and a high ability to explain complex concepts in simple ways, which were mostly obtained when I tutored and taught, plus I work with the general public, my patients as a pharmacist in a community pharmacy.
-
-I have a bachelor's degree in Pharmacy and am specializing in clinical and prescription pharmacy. My scientific initiation was on analytical chemistry with validation of analytical methods by HPLC on drugs. In addition, I am now learning Data Science and am thinking about integrating my knowledge, applying it to business and academia.
-
-
 **Background in:** Data Science, Python, Machine Learning, Medicinal and analytical chemistry, Clinical pharmacy, .
 
 **Links:**
@@ -19,19 +14,20 @@ I have a bachelor's degree in Pharmacy and am specializing in clinical and presc
 
 ## [English] Data Science Projects:
 
-* **Fetal Health Classification:** [link]https://colab.research.google.com/drive/1LyASeg5uNqYruAl8rCyjuZT3H_uNvswT # XGBoost
-* **Fake News Classifier:** [link]https://colab.research.google.com/drive/10M-D-jjqDVyP1j1H5H-oDk1OojYhZHJL #NLP #Deep Learning
-* **Wine Store Forecasting:** [link]https://colab.research.google.com/drive/1tpEa3UnGOJ0L3ZPI9I2pCooLoJt0sHlF
+* **Fetal Health Classification:** https://colab.research.google.com/drive/1LyASeg5uNqYruAl8rCyjuZT3H_uNvswT # XGBoost
+* **Fake News Classifier:** https://colab.research.google.com/drive/10M-D-jjqDVyP1j1H5H-oDk1OojYhZHJL #NLP   #Deep Learning
+* **Wine Store Forecasting:** https://colab.research.google.com/drive/1tpEa3UnGOJ0L3ZPI9I2pCooLoJt0sHlF # Times Series # Prophet
+* 
 
 
 
 ## [Português-BR] Projetos de Data Science:
 
-* **Covid-19 Analysis :** 
-* **Toronto Airbnb Analysis:** 
-* **Churn Prediction:** 
-* **Previsão dos custos dos seguros de saúde:https:** 
-* **Detecção de Fraude em Cartões de Crédito:https:** 
+
+* **Churn Prediction:** https://colab.research.google.com/drive/1Fxbv_mzYT2eT_hauFLG0huO0AQdM3Ghx
+* **Previsão dos custos dos seguros de saúde:https:** https://colab.research.google.com/drive/1yZeWCHvDsQ30Xiw0ejn-l1mY2Qh0VQ7e
+* **Detecção de Fraude em Cartões de Crédito:https:** https://colab.research.google.com/drive/1Ro6ixopyeNKHfS-QKDlvYOs3qcHGuKkY
+* Covid-19 Analysis : https://colab.research.google.com/drive/1LHxv9WZkl4OSH9xaL2uFNw_a8G0Y63xJ
 ---
 
 
