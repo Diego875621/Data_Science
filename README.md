@@ -19,17 +19,19 @@ I have a bachelor's degree in Pharmacy and am specializing in clinical and presc
 
 ## [English] Data Science Projects:
 
-* **Fetal Health Classification:** https://bit.ly/3Yet5tL
+* **Fetal Health Classification:** [link]https://colab.research.google.com/drive/1LyASeg5uNqYruAl8rCyjuZT3H_uNvswT # XGBoost
+* **Fake News Classifier:** [link]https://colab.research.google.com/drive/10M-D-jjqDVyP1j1H5H-oDk1OojYhZHJL #NLP #Deep Learning
+* **Wine Store Forecasting:** [link]https://colab.research.google.com/drive/1tpEa3UnGOJ0L3ZPI9I2pCooLoJt0sHlF
 
 
 
 ## [Português-BR] Projetos de Data Science:
 
-* **Covid-19 Analysis :** https://XXXXXX
-* **Toronto Airbnb Analysis:** https://XXXXXXX
-* **Churn Prediction:** https://bit.ly/3sI6Zl7
-* **Previsão dos custos dos seguros de saúde:https:** https://bit.ly/3Wh648K
-* **Detecção de Fraude em Cartões de Crédito:https:** https://bit.ly/3sNH5wk
+* **Covid-19 Analysis :** 
+* **Toronto Airbnb Analysis:** 
+* **Churn Prediction:** 
+* **Previsão dos custos dos seguros de saúde:https:** 
+* **Detecção de Fraude em Cartões de Crédito:https:** 
 ---
 
 
